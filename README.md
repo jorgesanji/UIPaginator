@@ -1,0 +1,4 @@
+UIPaginator
+===========
+
+Pagination with UIEdgeInsets
